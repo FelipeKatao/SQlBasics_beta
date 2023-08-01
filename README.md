@@ -18,7 +18,8 @@ Para executar o programa rode o aqruivo <b>SqlBasic 0.01.ink</b>
 Primeiramente você precisa criar uma conexão antes de tudo para que você consiga executar as querys e conseguir ver o seu banco de dados.
 para iniciar segue a tela inicial </br>
 </br>
-<img src="https://github.com/FelipeKatao/SQlBasics_beta/assets/34559081/c545b1f6-597b-453b-a9ac-748fb4307f95">
+<img src="img/img_01">
+
 </br>
 
 Após o preenchimento, automaticamente ira aparecer no lado esquerdo todas as tabelas que o seu banco de dados possui, e pode ampliar cada elemento para poder acessar suas colunas de forma individual.
@@ -27,11 +28,11 @@ Caso você tenha algum problema e não consiga realizar a conexão recomendamos 
 ## Execução de uma Query
 Para executar uma query antes digite o comando de query dentro de SqlEditor e aós isso vá na aba Sql > Executar , desta maneira ele ira executar a query em questão e aparecera na tela de resultados.
 
-![image](https://github.com/FelipeKatao/SQlBasics_beta/assets/34559081/ebfad91e-e41f-4695-a4db-3469d990ca95)
+<img src="img/img_02">
 
 Dentro da tela de resultados que é na aba ao lado de SqlEditor você verifica o retorno que sua query obteve:
 
-![image](https://github.com/FelipeKatao/SQlBasics_beta/assets/34559081/0e7fba9c-1cde-48f3-9085-2b0d88df0cc1)
+<img src="img/img_03">
 
 Na tela de resultado mostra em formato de Trupla, onde cada valor ente parenteses é um registro da sua tabela, nessa versão ainda não é possivel mostrar o nome da coluna na qual pertece dentro do seu SELECT.
 
@@ -40,10 +41,10 @@ Na tela de resultado mostra em formato de Trupla, onde cada valor ente parentese
 
 Caso você rode a sua query e apareça esse resultado na tela de resultados: 
 
-![image](https://github.com/FelipeKatao/SQlBasics_beta/assets/34559081/ebcce947-c9d5-44af-9a3f-0d93580ab1a7)
+<img src="img/img_04">
 
 
 Isso significa que você não tem privilegios o suficiente para realizar essa query, nesse caso utilize a função "enviar query para aprovacao" , para que o admnistrador consiga rodar a sua query  bloqueada.
 
-![image](https://github.com/FelipeKatao/SQlBasics_beta/assets/34559081/487bfbea-0ad0-481e-b129-769a7f0262e5)
+<img src="img/img_05">
 
