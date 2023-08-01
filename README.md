@@ -18,7 +18,8 @@ Para executar o programa rode o aqruivo <b>SqlBasic 0.01.ink</b>
 Primeiramente você precisa criar uma conexão antes de tudo para que você consiga executar as querys e conseguir ver o seu banco de dados.
 para iniciar segue a tela inicial </br>
 </br>
-<img src="https://github.com/FelipeKatao/SQlBasics_beta/assets/34559081/c545b1f6-597b-453b-a9ac-748fb4307f95">
+![image](https://github.com/FelipeKatao/SQlBasics_beta/assets/34559081/be23b36e-4a59-4be6-8d4c-cf3d1d4a118b)
+
 </br>
 
 Após o preenchimento, automaticamente ira aparecer no lado esquerdo todas as tabelas que o seu banco de dados possui, e pode ampliar cada elemento para poder acessar suas colunas de forma individual.
