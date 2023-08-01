@@ -18,7 +18,7 @@ Para executar o programa rode o aqruivo <b>SqlBasic 0.01.ink</b>
 Primeiramente você precisa criar uma conexão antes de tudo para que você consiga executar as querys e conseguir ver o seu banco de dados.
 para iniciar segue a tela inicial </br>
 </br>
-<img src="img/img_01">
+<img src="img/img_01.png">
 
 </br>
 
@@ -28,11 +28,11 @@ Caso você tenha algum problema e não consiga realizar a conexão recomendamos 
 ## Execução de uma Query
 Para executar uma query antes digite o comando de query dentro de SqlEditor e aós isso vá na aba Sql > Executar , desta maneira ele ira executar a query em questão e aparecera na tela de resultados.
 
-<img src="img/img_02">
+<img src="img/img_02.png">
 
 Dentro da tela de resultados que é na aba ao lado de SqlEditor você verifica o retorno que sua query obteve:
 
-<img src="img/img_03">
+<img src="img/img_03.png">
 
 Na tela de resultado mostra em formato de Trupla, onde cada valor ente parenteses é um registro da sua tabela, nessa versão ainda não é possivel mostrar o nome da coluna na qual pertece dentro do seu SELECT.
 
@@ -41,10 +41,10 @@ Na tela de resultado mostra em formato de Trupla, onde cada valor ente parentese
 
 Caso você rode a sua query e apareça esse resultado na tela de resultados: 
 
-<img src="img/img_04">
+<img src="img/img_04.png">
 
 
 Isso significa que você não tem privilegios o suficiente para realizar essa query, nesse caso utilize a função "enviar query para aprovacao" , para que o admnistrador consiga rodar a sua query  bloqueada.
 
-<img src="img/img_05">
+<img src="img/img_05.png">
 
