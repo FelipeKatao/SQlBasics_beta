@@ -111,8 +111,11 @@ DbaMenu.add_command(label="Visualizar Querys enviadas", command=AproveWin)
 DbaMenu.add_command(label="Modificar Privilegios")
 DbaMenu.add_command(label="Gerenciar Stored procedures",command=ProceDuresList)
 
-if int(dtimp.GetUser(cf.GetCon())) ==0:
-    menu.add_cascade(label="Gerenciar",menu=DbaMenu)
+try:
+    if int(dtimp.GetUser(cf.GetCon())) ==0:
+        menu.add_cascade(label="Gerenciar",menu=DbaMenu)
+except:
+    print("Crie o seu login...")
 
 #==================================================
 # Elementos em tela
